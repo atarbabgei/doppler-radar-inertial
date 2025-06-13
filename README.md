@@ -1,4 +1,4 @@
-# Doppler-radar-inertial
+# Doppler-Informed Radar-Inertial Odometry
 
 > **Sneak Peek!**
 > Sneak Peek! A high-level demo of our mmWave Doppler-based radar odometry fused with IMU orientation. The project website, source code and paper will launch soon! Stay tuned for full demos, installation instructions and in-depth documentation.
